@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+2f4d3fafdbd43139f6826020ae4867fd /home/francesco/garbage/devel/share/roseus/ros/package1/manifest.l
+ce0721bc3a474e5b6297b8d314dcc21d CMakeFiles/clean_test_results
+af954b20398c8a7a7c6ba3acc145f8ec package1/CMakeFiles/package1_generate_messages_eus
