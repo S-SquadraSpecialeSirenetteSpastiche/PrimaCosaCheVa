@@ -8,7 +8,7 @@ int main(int argc, char **argv) {
     int aimX = 0, aimY = 0.5, radius = 50;
 
     // Initialize the node
-    ros::init(argc, argv, "move_turtle");
+    ros::init(argc, argv, "move_turtle_node");
     ros::NodeHandle node;
     // A publisher for the movement data
     ros::Publisher pub = node.advertise<geometry_msgs::Twist>("turtle1/cmd_vel", 10);
