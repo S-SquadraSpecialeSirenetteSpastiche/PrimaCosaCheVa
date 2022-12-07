@@ -1,0 +1,8 @@
+prefix=/home/francesco/garbage/install
+
+Name: turtle_wanderer
+Description: Description of turtle_wanderer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

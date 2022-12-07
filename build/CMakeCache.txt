@@ -494,6 +494,12 @@ rostime_DIR:PATH=/opt/ros/noetic/share/rostime/cmake
 //The directory containing a CMake configuration file for std_msgs.
 std_msgs_DIR:PATH=/opt/ros/noetic/share/std_msgs/cmake
 
+//Value Computed by CMake
+turtle_wanderer_BINARY_DIR:STATIC=/home/francesco/garbage/build/turtle_wanderer
+
+//Value Computed by CMake
+turtle_wanderer_SOURCE_DIR:STATIC=/home/francesco/garbage/src/turtle_wanderer
+
 //The directory containing a CMake configuration file for xmlrpcpp.
 xmlrpcpp_DIR:PATH=/opt/ros/noetic/share/xmlrpcpp/cmake
 
