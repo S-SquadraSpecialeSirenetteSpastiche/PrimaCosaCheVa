@@ -1,0 +1,6 @@
+<launch>
+    <!--apro rviz totalmente a caso-->
+    <node name="rviz_node" pkg="rviz" type="rviz" />
+    
+    <node name="talker_node" pkg="my_messages" type="talker"/>
+</launch>

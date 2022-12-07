@@ -1,5 +1,20 @@
 # Hashes of file build rules.
+f96fb7f754c9c5de66a996a7cfc9c761 /home/francesco/garbage/devel/include/my_messages/named_point.h
+ed4058dd449bac1848f1b5b36a202d10 /home/francesco/garbage/devel/lib/python3/dist-packages/my_messages/msg/__init__.py
+0efd06829baa4fc5f764ca7ad9c27b32 /home/francesco/garbage/devel/lib/python3/dist-packages/my_messages/msg/_named_point.py
+2647331d610f74296a94e2b8dc31598e /home/francesco/garbage/devel/lib/python3/dist-packages/turtle_wanderer/msg/__init__.py
+5b8e0bd3dae001c521cd957305565a14 /home/francesco/garbage/devel/share/common-lisp/ros/my_messages/msg/named_point.lisp
+97f1839c9d036cd7dc56db0d0b9c2ebe /home/francesco/garbage/devel/share/gennodejs/ros/my_messages/msg/named_point.js
+23802909c20b6c061d84cafba0af244b /home/francesco/garbage/devel/share/roseus/ros/my_messages/manifest.l
+e539d37f7622364fe9b1d67dbda54e59 /home/francesco/garbage/devel/share/roseus/ros/my_messages/msg/named_point.l
 2f4d3fafdbd43139f6826020ae4867fd /home/francesco/garbage/devel/share/roseus/ros/package1/manifest.l
 a9cf189d3f5e566360cf8de6edc7de7e /home/francesco/garbage/devel/share/roseus/ros/turtle_wanderer/manifest.l
 ce0721bc3a474e5b6297b8d314dcc21d CMakeFiles/clean_test_results
+3767020d352b27ba4d36923403e1a686 my_messages/CMakeFiles/_my_messages_generate_messages_check_deps_named_point
+dc8509ef62e82145e61cd8e0b0bf56c8 my_messages/CMakeFiles/my_messages_generate_messages_cpp
+dc8509ef62e82145e61cd8e0b0bf56c8 my_messages/CMakeFiles/my_messages_generate_messages_eus
+dc8509ef62e82145e61cd8e0b0bf56c8 my_messages/CMakeFiles/my_messages_generate_messages_lisp
+dc8509ef62e82145e61cd8e0b0bf56c8 my_messages/CMakeFiles/my_messages_generate_messages_nodejs
+dc8509ef62e82145e61cd8e0b0bf56c8 my_messages/CMakeFiles/my_messages_generate_messages_py
 a7552b829cdb199796d25b1a43dea183 turtle_wanderer/CMakeFiles/turtle_wanderer_generate_messages_eus
+a7552b829cdb199796d25b1a43dea183 turtle_wanderer/CMakeFiles/turtle_wanderer_generate_messages_py

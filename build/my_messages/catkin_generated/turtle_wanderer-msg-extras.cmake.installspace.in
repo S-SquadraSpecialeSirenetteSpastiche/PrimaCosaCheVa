@@ -1,0 +1,2 @@
+set(turtle_wanderer_MESSAGE_FILES "msg/named_point.msg")
+set(turtle_wanderer_SERVICE_FILES "")

@@ -53,6 +53,15 @@ CMAKE_BINARY_DIR = /home/francesco/garbage/build
 # Include the progress variables for this target.
 include turtle_wanderer/CMakeFiles/turtle_wanderer_generate_messages_py.dir/progress.make
 
+turtle_wanderer/CMakeFiles/turtle_wanderer_generate_messages_py: /home/francesco/garbage/devel/lib/python3/dist-packages/turtle_wanderer/msg/__init__.py
+
+
+/home/francesco/garbage/devel/lib/python3/dist-packages/turtle_wanderer/msg/__init__.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/francesco/garbage/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating Python msg __init__.py for turtle_wanderer"
+	cd /home/francesco/garbage/build/turtle_wanderer && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py -o /home/francesco/garbage/devel/lib/python3/dist-packages/turtle_wanderer/msg --initpy
+
+turtle_wanderer_generate_messages_py: turtle_wanderer/CMakeFiles/turtle_wanderer_generate_messages_py
+turtle_wanderer_generate_messages_py: /home/francesco/garbage/devel/lib/python3/dist-packages/turtle_wanderer/msg/__init__.py
 turtle_wanderer_generate_messages_py: turtle_wanderer/CMakeFiles/turtle_wanderer_generate_messages_py.dir/build.make
 
 .PHONY : turtle_wanderer_generate_messages_py

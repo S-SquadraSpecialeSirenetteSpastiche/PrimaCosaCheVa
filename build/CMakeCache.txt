@@ -465,6 +465,12 @@ message_generation_DIR:PATH=/opt/ros/noetic/share/message_generation/cmake
 message_runtime_DIR:PATH=/opt/ros/noetic/share/message_runtime/cmake
 
 //Value Computed by CMake
+my_messages_BINARY_DIR:STATIC=/home/francesco/garbage/build/my_messages
+
+//Value Computed by CMake
+my_messages_SOURCE_DIR:STATIC=/home/francesco/garbage/src/my_messages
+
+//Value Computed by CMake
 package1_BINARY_DIR:STATIC=/home/francesco/garbage/build/package1
 
 //Value Computed by CMake

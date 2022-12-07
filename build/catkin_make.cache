@@ -1,2 +1,2 @@
-line:turtle_wanderer
+my_messages:turtle_wanderer
 -DCATKIN_DEVEL_PREFIX=/home/francesco/garbage/devel -DCMAKE_INSTALL_PREFIX=/home/francesco/garbage/install -G Unix Makefiles
